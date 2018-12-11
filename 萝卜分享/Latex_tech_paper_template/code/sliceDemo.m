@@ -1,0 +1,29 @@
+clear;clc
+clf,x=linspace(-2,2,40);
+y=x;z=x;
+[X,Y,Z]=meshgrid(x,y,z);
+w=X.^2+Y.^2+Z.^2;
+figure(1)
+hFig=gcf;
+set(hFig,'Position',[100,100,1200,800]);
+subplot(2,2,1)
+slice(X,Y,Z,w,[1,0,-1],[-1,0,1],[-1,0,1]);
+xlabel('x');ylabel('y');zlabel('z');
+colormap(gca,'spring')
+hcb1=colorbar;
+title('slice');
+subplot(2,2,2)
+contour(peaks);
+colormap(gca,'gray')
+hcb2=colorbar;
+subplot(2,2,3)
+sphere;
+colormap(gca,'autumn')
+hcb3=colorbar;
+title('sphere');
+shading flat
+subplot(2,2,4)
+surfc(peaks);
+colormap(gca,'pink')
+hcb4=colorbar;
+shading interp

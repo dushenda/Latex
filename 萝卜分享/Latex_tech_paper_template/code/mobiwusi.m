@@ -1,0 +1,10 @@
+clc; clear all; close all;
+t=linspace(-pi, pi); v=linspace(-1,1);
+a=20; b=8; [T,V]=meshgrid(t,v);
+r=a+b*V.*cos(T/2); x=r.*cos(T);
+y=r.*sin(T); z=b*V.*sin(T/2);
+surf(x,y,z);
+shading interp; axis off;
+grid off; axis equal;
+% set(gcf, 'color', 'k', 'menubar', 'none', 'units', 'normalized', 'position', [0 0 1 1]);
+% cameratoolbar;

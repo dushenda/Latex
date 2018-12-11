@@ -1,0 +1,4 @@
+PWD D:/texÎÄ¼þ/ustcthesis
+INPUT c:/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt
+INPUT ./docstrip.tex
+OUTPUT docstrip.log

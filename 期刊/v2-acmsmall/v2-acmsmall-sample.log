@@ -1,0 +1,273 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.11.12)  30 NOV 2018 19:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./v2-acmsmall-sample.tex
+(./v2-acmsmall-sample.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./acmsmall.cls
+Document Class: acmsmall 2012/03/05, fonts included on 28 June 2010
+(./url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+ACM, Production Font style: 2010/06/28 by Aptara
+
+Using ACM, TECS option: 2010/05/04 by Aptara
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
+))
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+)
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+Document Class `acmsmall' Electronic Submissions v1.4 <July 09, 2012> (ACM).
+\@firstpg=\count79
+\@lastpg=\count80
+\trimheight=\dimen104
+\trimwidth=\dimen105
+\normaltextheight=\dimen106
+\tempdimen=\dimen107
+\tempbox=\box26
+\tbbox=\box27
+\tabledim=\dimen108
+\symnewlargesymbols=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \bigsqcup on input line 2037.
+\normalparindent=\dimen109
+\footheight=\skip41
+\@maxsep=\skip42
+\@dblmaxsep=\skip43
+\@totalpg=\count81
+\@abstract=\box28
+\@permissionbox=\box29
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\enumdim=\dimen110
+\c@theorem=\count87
+\belowcaptionskip=\skip44
+\abovecaptionskip=\skip45
+\c@figure=\count88
+\c@table=\count89
+\@narrowfig=\dimen111
+\@nfigbox=\box30
+\@nfcapbox=\box31
+\@nfigbox=\box32
+\@nfcapbox=\box33
+\bibindent=\dimen112
+LaTeX Font Info:    Overwriting math alphabet `\mathbb' in version `normal'
+(Font)                  OT1/ams/bx/n --> OT1/ams/bx/n on input line 3619.
+LaTeX Font Info:    Overwriting math alphabet `\mathbb' in version `bold'
+(Font)                  OT1/ams/bx/n --> OT1/ams/bx/n on input line 3620.
+) (./algorithm2e.sty
+Invalid UTF-8 byte or sequence at line 322 replaced by U+FFFD.
+Package: algorithm2e 2008/00/00 v3.10 algorithms environments
+\c@AlgoLine=\count90
+ (c:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Invalid UTF-8 byte or sequence at line 778 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 780 replaced by U+FFFD.
+
+(c:/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 4.01 -- december 14 2009 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip46
+\skiplinenumber=\skip47
+\skiprule=\skip48
+\skiphlne=\skip49
+\skiptext=\skip50
+\skiplength=\skip51
+\algomargin=\skip52
+\skipalgocfslide=\skip53
+\algowidth=\dimen113
+\inoutsize=\dimen114
+\inoutline=\dimen115
+\interspacetitleruled=\dimen116
+\interspacealgoruled=\dimen117
+\interspacetitleboxruled=\dimen118
+\algocf@inoutbox=\box34
+\algocf@inputbox=\box35
+\AlCapSkip=\skip54
+\AlCapHSkip=\skip55
+\algocf@nlbox=\box36
+\algocf@hangingbox=\box37
+\algocf@capbox=\box38
+\algoheightruledefault=\skip56
+\algoheightrule=\skip57
+\algotitleheightruledefault=\skip58
+\algotitleheightrule=\skip59
+\c@algocfline=\count91
+\c@algocfproc=\count92
+\c@algocf=\count93
+\algocf@algoframe=\box39
+\algocf@algobox=\box40
+Invalid UTF-8 byte or sequence at line 2420 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2501 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2532 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2584 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2592 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2592 replaced by U+FFFD.
+) (./v2-acmsmall-sample.aux)
+\openout1 = `v2-acmsmall-sample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for TU+pnc on input line 33.
+LaTeX Font Info:    No file TUpnc.fd. on input line 33.
+
+
+LaTeX Font Warning: Font shape `TU/pnc/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 33.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 113.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 113.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 113.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 113.
+(c:/texlive/2017/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for TU+phv on input line 115.
+LaTeX Font Info:    No file TUphv.fd. on input line 115.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 115.
+
+
+LaTeX Font Warning: Font shape `TU/phv/bx/n' undefined
+(Font)              using `TU/phv/m/n' instead on input line 115.
+
+
+LaTeX Font Warning: Font shape `TU/pnc/bx/n' undefined
+(Font)              using `TU/pnc/m/n' instead on input line 115.
+
+
+LaTeX Font Warning: Font shape `TU/pnc/m/it' undefined
+(Font)              using `TU/pnc/m/n' instead on input line 115.
+
+
+Overfull \vbox (72.27pt too high) has occurred while \output is active []
+
+ [1
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 169.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
+(Font)              using `TU/phv/m/n' instead on input line 203.
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 226.
+ [3]
+File: acmsmall-mouse.pdf Graphic file (type QTm)
+ <use  "acmsmall-mouse.pdf" >
+
+LaTeX Font Warning: Font shape `TU/pnc/m/sc' undefined
+(Font)              using `TU/pnc/m/n' instead on input line 323.
+
+[4]
+Underfull \vbox (badness 3907) has occurred while \output is active []
+
+ [5]
+(./v2-acmsmall-sample.bbl [6]
+Underfull \hbox (badness 2644) in paragraph at lines 243--250
+[]\TU/pnc/m/it/8 Dave Novak. 2003. Solder man. Video. In ACM SIGGRAPH 2003 Vide
+o Review on Anima-
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 316--324
+\TU/pnc/m/it/8 In Proceedings of the 3rd. annual workshop on Librarians and Com
+puters (LAC ’10), Regi-
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 316--324
+\TU/pnc/m/it/8 nald N. Smythe and Alexander Noble (Eds.), Vol. 3. Paparazzi Pre
+ss, Milan Italy, 422–431.
+ []
+
+) [7] [1
+
+] (./v2-acmsmall-sample.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2444 strings out of 493005
+ 30079 string characters out of 6137955
+ 125842 words of memory out of 5000000
+ 6423 multiletter control sequences out of 15000+600000
+ 7548 words of font info for 37 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 32i,17n,27p,317b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on v2-acmsmall-sample.pdf (8 pages).

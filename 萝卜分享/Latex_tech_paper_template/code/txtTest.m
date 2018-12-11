@@ -1,0 +1,9 @@
+clear;clc;
+x=1:0.1:100;
+y=sin(x);
+%这边要注意的是这个MATLAB的读取顺序是1...n列
+data=[x;y];
+[fid,errmsg]=fopen('txtTest.txt','wt');
+filename=fopen(fid);
+fprintf(fid,'%f\t%f\n',data);
+fclose(fid);

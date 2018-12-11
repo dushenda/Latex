@@ -1,0 +1,22 @@
+clear;clc;
+t=linspace(0,2*pi,9);
+t2=0:0.001:2*pi;
+x=sin(t);
+y=cos(t);
+rho=sin(t2).*cos(t2);
+subplot(2,2,1)
+polar(t2,rho);
+tex1=texlabel('rho=rho(theta)');
+title([tex1,'的极坐标图']);
+subplot(2,2,2)
+compass(x,y);
+title('罗盘图');
+subplot(2,2,3)
+scatter(x,y);
+title('散点图');
+subplot(2,2,4)
+u=gradient(t);
+v=gradient(y);
+quiver(t,y,u,v);
+title('梯度图');
+grid on;box off

@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+
+\bibitem{lshort-cn}
+翻译小组 C.
+\newblock lshort中文版3.20.
+\newblock 2003
+\unskip.
+
+\bibitem{deng:01a}
+{邓建松,~彭冉冉,~陈长松}.
+\newblock \LaTeXe{}~科技排版指南.
+\newblock 北京: 科学出版社,~书号:~7-03-009239-2/TP.1516, 2001
+\unskip.
+
+\bibitem{MELLINGER96}
+Mellinger A, Vidal C~R, Jungen C.
+\newblock Laser reduced fluorescence study of the carbon-monoxide nd triplet
+  {R}ydberg series-experimental results and multichannel quantum-defect
+  analysis.
+\newblock J. Chem. Phys., 1996, 104(5):8913--8921
+\unskip.
+
+\bibitem{wang:00a}
+王磊.
+\newblock \LaTeXe{}~插图指南.
+\newblock 2000
+\unskip.
+
+\bibitem{zhang:03a}
+张林波.
+\newblock 关于新版~CCT~的说明.
+\newblock 2003
+\unskip.
+
+\bibitem{lamport85a}
+Lamport L.
+\newblock {LaTeX} --- A Document Preparation System: User's Guide and Reference
+  Manual.
+\newblock 2nd ed., Reading, Massachusetts: Addison-Wesley, 1985
+\unskip.
+
+\bibitem{knuth86a}
+Knuth D~E.
+\newblock The {TeX}book, volume~A of {\em Computers and Typesetting}.
+\newblock Reading, Massachusetts: Addison-Wesley, 1986
+\unskip.
+
+\bibitem{knuth86b}
+Knuth D~E.
+\newblock {TeX}: The Program, volume~B of {\em Computers and Typesetting}.
+\newblock Reading, Massachusetts: Addison-Wesley, 1986
+\unskip.
+
+\bibitem{knuth86c}
+Knuth D~E.
+\newblock The {METAFONT}book, volume~C of {\em Computers and Typesetting}.
+\newblock Reading, Massachusetts: Addison-Wesley, 1986
+\unskip.
+
+\bibitem{knuth86d}
+Knuth D~E.
+\newblock {METAFONT}: The Program, volume~D of {\em Computers and Typesetting}.
+\newblock Reading, Massachusetts: Addison-Wesley, 1986
+\unskip.
+
+\bibitem{knuth86e}
+Knuth D~E.
+\newblock Computer Modern Typefaces, volume~E of {\em Computers and
+  Typesetting}.
+\newblock Reading, Massachusetts: Addison-Wesley, 1986
+\unskip.
+
+\end{thebibliography}

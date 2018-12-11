@@ -1,0 +1,10 @@
+clear;clc;
+x1=0:0.01:4*pi;
+y1=sin(x1);
+plot(x1,y1);
+xlabel('x');ylabel('y');
+figure(2)
+x2=linspace(1,100,100);
+y2=x2.^2-2*x2+sqrt(x2)-x2.^(1/3)-10*x2.^(1.5);
+plot(x2,y2,'k');
+xlabel('x');ylabel('y');
