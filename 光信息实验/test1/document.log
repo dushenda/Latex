@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.11.12)  30 NOV 2018 15:24
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.12.9)  4 JAN 2019 13:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1493,7 +1493,7 @@ LaTeX Font Warning: Size substitutions with differences
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
  22152 strings out of 493005
- 447649 string characters out of 6137955
+ 447649 string characters out of 6137956
  471020 words of memory out of 5000000
  25907 multiletter control sequences out of 15000+600000
  5487 words of font info for 44 fonts, out of 8000000 for 9000
